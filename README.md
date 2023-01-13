@@ -1,2 +1,2 @@
 # pca-svm-classifier
-This project aims to develop a supervised classifier using svm and pca for dimensionality reduction
+This project's aim is to gain deeper knowledge about support vector machine(SVM) and principal component analysis(PCA) and develop a practical implementation of these algorithms.
